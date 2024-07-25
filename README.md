@@ -1,3 +1,12 @@
+# features
+  # to improve user experience this project implements features like:-
+    live chat using dummy data
+    nested comments uning recursion
+
+  # to optimise the frontend i have implemented following-
+    lazy loading/dynamic import/chunking
+    debouncing
+    caching
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
